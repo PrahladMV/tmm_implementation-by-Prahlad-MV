@@ -1,4 +1,4 @@
-# tmm_implementation by Prahlad MV from Leandro N. Acquaroli paper-
+# TMM Implementation by Prahlad MV, based on the research paper of Leandro N. Acquaroli
 Here’s a **README.md** file for the provided MATLAB function, explaining its usage and functionality:
 
 ---
