@@ -102,10 +102,6 @@ If you choose 'y', you will be asked to input the wavelength at which you want t
 
 This code is provided under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
-## **Acknowledgments:**
-
-This code was developed by **Prahlad MV** and **Saksham A**. It builds upon earlier implementations of the Transfer Matrix Method for thin films.
-
 ## **Contact:**
 
 For questions, suggestions, or collaborations, feel free to reach out via email at **[prahladmv@gmail.com](mailto:prahladmv@gmail.com)**.
